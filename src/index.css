@@ -1,0 +1,62 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+.icon{
+    font-size: 35px;
+    padding-top: 30px;
+}
+.col-6{
+  max-width: 100%;
+}
+
+.btnmt {
+  margin-top: 32px
+}
+
+.btnmr {
+  margin-right: 5px
+}
+
+
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+.icon{
+    font-size: 35px;
+    padding-top: 30px;
+}
+.col-6{
+  max-width: 100%;
+}
+
+.btnmt {
+  margin-top: 32px
+}
+
+.btnmr {
+  margin-right: 5px
+}
+.login-wrapper {
+  height: 100vh;
+  overflow: hidden
+}
+.login-start img {
+  object-fit: cover;
+}
+.login-content {
+  left: 0;
+  right: 0;
+  bottom: 50px;
+  padding: 0 50px;
+}
+.signup-text {
+  left: 0;
+  right: 0;
+  bottom: 20px;
+}
+
+

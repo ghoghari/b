@@ -1,0 +1,9 @@
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const FORGOT_FAIL = "FORGOT PASSWORD FAIL";
+export const RECOVER_FAIL = "RECOVER PASSWORD FAIL";
+export const LOGOUT = "LOGOUT";
+export const SET_MESSAGE = "SET_MESSAGE";
+export const CLEAR_MESSAGE = "CLEAR_MESSAGE";
+export const RECOVER_SUCCESS = "Successfully updated password.";
+export const EMAIL_SUCCESS = "Reset password request has been generated successfully. You might have an email along with reset password link. Kindly follow that link to reset your password.";
